@@ -1,0 +1,5 @@
+Flask
+PyGithub
+requests
+APScheduler
+slack-sdk
